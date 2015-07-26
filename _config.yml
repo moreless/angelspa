@@ -1,0 +1,17 @@
+# Site settings
+title: 
+header-img: img/home-bg.jpg
+email: valleyrain.org@gmail.com
+description: "startbootstrap-agency"
+baseurl: "/startbootstrap-agency"
+url: "http://myahmao.github.io"
+twitter_username: valleyrainbook
+github_username:  valleyrain-org
+facebook_username:  valleyrainbook
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
